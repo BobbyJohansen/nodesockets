@@ -1,0 +1,11 @@
+{
+  "name": "SkypeBot",
+  "version": "1.0.0",
+  "description": "Skype Integration",
+  "dependencies": {
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "express": "latest"
+  },
+  "author": "Bobby"
+}
